@@ -1,0 +1,34 @@
+                                        AMERICAN COMPUTER SCIENCE LEAGUE
+       2019-2020 -------------------------------------------------------------------------- Contest #1
+                                  Intermediate Division - Number Transformation
+
+PROBLEM: Given a positive integer (call it N) and a position in that integer (call it P)
+transform N. To transform N, find the Pth digit of N from the right. Replace each of the digits to
+the left of the Pth digit by the sum of that digit and the Pth digit. If the sum is greater than 9, use
+just the units digits (see the second example below). Replace each of the digits to the right of the
+Pth digit by the absolute value of the difference between it and the Pth digit. Do not change the Pth
+digit.
+
+Example 1: N=102439, P=3. Answer is: (1+4)(0+4)(2+4)4(|3-4|)(|9-4|) => 546415
+
+Example 2: N=4329, P=1. Answer is: (4+9)(3+9)(2+9)9 => (13)(12)(11)9 => 3219
+
+INPUT: There will be 5 sets of data. Each set contains two positive integers: N and P. N will be
+less than 10^15, and P will be valid. No input will cause an output to have a leading digit of 0.
+
+OUTPUT: The transformed value of each input set. The printed number may not have any
+spaces between the digits.
+
+SAMPLE INPUT: (http://www.datafiles.acsl.org/2020/contest1/int-sample-input.txt)
+296351  5
+762184  3
+45873216  7
+19750418  6
+386257914  5
+
+SAMPLE OUTPUT:
+1.  193648
+2.  873173
+3.  95322341
+4.  86727361
+5.  831752441
