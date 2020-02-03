@@ -1,4 +1,4 @@
-/*
+package Intermediate2020;/*
 Ethan Yu
 iTalented
 Contest 1
@@ -8,7 +8,7 @@ Java
 import java.util.Scanner;
 import java.lang.StringBuilder;
 import java.lang.Math;
-public class Contest1 {
+public class Contest1_Meme_ShortVersion {
     public static void main(String [] args) {
         Scanner sc = new Scanner (System.in);
         long n;

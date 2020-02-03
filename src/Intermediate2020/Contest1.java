@@ -8,7 +8,6 @@ Java
 package Intermediate2020;
 
 import java.util.Scanner;
-import java.lang.StringBuilder;
 
 public class Contest1 {
 
@@ -38,7 +37,7 @@ public class Contest1 {
             }
             temp = new StringBuilder(); //reuse temp for output
             for (int value : output) {
-                temp.append(value); //populate temp with output (converting int array to String)
+                temp.append(value); //populate temp with output (converting int array to StringBuilder)
             }
             System.out.println(i+1 + ".  " + temp); //Print out
         }
@@ -46,3 +45,4 @@ public class Contest1 {
     }
 
 }
+
