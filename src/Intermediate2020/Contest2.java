@@ -6,6 +6,7 @@ import java.util.Scanner;
 public class Contest2 {
 
     static void check(LinkedList qa, LinkedList qb) {
+        if ((qa.size() == 0) || (qb.size() == 0)) return;
         LinkedList a = (LinkedList) qa.clone();
         LinkedList b = (LinkedList) qb.clone();
         checksame(qa, qb);
@@ -14,21 +15,26 @@ public class Contest2 {
     }
 
     static void checkahead (LinkedList qa, LinkedList qb) {
+        if ((qa.size() == 0) || (qb.size() == 0)) return;
         LinkedList a = (LinkedList) qa.clone();
         LinkedList b = (LinkedList) qb.clone();
         for (int i = 0; i < Math.min(qa.size(), qb.size()) - 1; i++) {
+            if ((qa.size() == 0) || (qb.size() == 0)) return;
             if (qb.get(i + 1) == qa.get(i)) {
                 qb.remove(i);
                 qb.remove(i);
                 qa.remove(i);
                 checksame(qa, qb);
+                i--;
             } else if (qa.get(i + 1) == qb.get(i)) {
                 qa.remove(i);
                 qa.remove(i);
                 qb.remove(i);
                 checksame(qa, qb);
+                i--;
             }
         }
+        if ((qa.size() == 0) || (qb.size() == 0)) return;
         if (qa.size() > qb.size()) {
             if (qa.get(qb.size()) == qb.get(qb.size() - 1)) {
                 qa.remove(qb.size() - 1);
@@ -46,12 +52,15 @@ public class Contest2 {
     }
 
     static void checksame (LinkedList qa, LinkedList qb) {
+        if ((qa.size() == 0) || (qb.size() == 0)) return;
         LinkedList a = (LinkedList) qa.clone();
         LinkedList b = (LinkedList) qb.clone();
         for (int j = 0; j < Math.min(qa.size(), qb.size()); j++) {
             if (qa.get(j) == qb.get(j)) {
                 qa.remove(j);
                 qb.remove(j);
+                if ((qa.size() == 0) || (qb.size() == 0)) return;
+                j--;
             }
         }
         if (!((a.equals(qa)) && (b.equals(qb)))) checksame(qa, qb);
@@ -80,7 +89,7 @@ public class Contest2 {
                 sum += qa.get(j) - qb.get(j);
             }
             sum += Math.abs(qa.size() - qb.size());
-            System.out.println(sum);
+            System.out.println(i + 1 + ".  " + sum);
         }
 
         

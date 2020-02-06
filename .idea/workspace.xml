@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6e999413-4db0-4390-af9b-dedd9dbaaa86" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Intermediate2020/Contest2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Intermediate2020/Problem Statement 2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Intermediate2020/Test Input Contest 2.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ACSL-Competition/Intermediate2020/Contest1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ACSL-Competition/Intermediate2020/Contest1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Intermediate2020/Contest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Intermediate2020/Contest1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Intermediate2020/Contest1_Meme_ShortVersion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Intermediate2020/Contest1_Meme_ShortVersion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ACSL-Competition/Intermediate2020/Contest2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ACSL-Competition/Intermediate2020/Contest2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ACSL-Competition/Intermediate2020/Test Input Contest 2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ACSL-Competition/Intermediate2020/Test Input Contest 2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Intermediate2020/Contest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Intermediate2020/Contest2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Intermediate2020/Test Input Contest 2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Intermediate2020/Test Input Contest 2.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,7 +98,7 @@
       <updated>1578291226525</updated>
       <workItem from="1578291254147" duration="13333000" />
       <workItem from="1579313792643" duration="18000" />
-      <workItem from="1580690857702" duration="8114000" />
+      <workItem from="1580690857702" duration="13820000" />
     </task>
     <servers />
   </component>
@@ -121,57 +119,57 @@
       <screen x="1440" y="-533" width="3840" height="2160" />
     </state>
     <state x="3052" y="357" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900/1440.-533.3840.2160@1440.-533.3840.2160" timestamp="1578302213316" />
-    <state width="1638" height="340" key="GridCell.Tab.0.bottom" timestamp="1580718263097">
+    <state width="1638" height="199" key="GridCell.Tab.0.bottom" timestamp="1580959598575">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state width="3798" height="488" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.-533.3840.2160@1440.-533.3840.2160" timestamp="1578386634422" />
-    <state width="1638" height="340" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1580718263097" />
+    <state width="1638" height="199" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1580959598575" />
     <state width="3798" height="807" key="GridCell.Tab.0.bottom/0.23.1440.877/1440.-510.3840.2137@1440.-510.3840.2137" timestamp="1578295408548" />
     <state width="3798" height="661" key="GridCell.Tab.0.bottom/0.23.1440.877/1440.-533.3840.2160@1440.-533.3840.2160" timestamp="1578370042649" />
-    <state width="1638" height="340" key="GridCell.Tab.0.center" timestamp="1580718263095">
+    <state width="1638" height="199" key="GridCell.Tab.0.center" timestamp="1580959598574">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state width="3798" height="488" key="GridCell.Tab.0.center/0.0.1440.900/1440.-533.3840.2160@1440.-533.3840.2160" timestamp="1578386634420" />
-    <state width="1638" height="340" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1580718263095" />
+    <state width="1638" height="199" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1580959598574" />
     <state width="3798" height="807" key="GridCell.Tab.0.center/0.23.1440.877/1440.-510.3840.2137@1440.-510.3840.2137" timestamp="1578295408546" />
     <state width="3798" height="661" key="GridCell.Tab.0.center/0.23.1440.877/1440.-533.3840.2160@1440.-533.3840.2160" timestamp="1578370042648" />
-    <state width="1638" height="340" key="GridCell.Tab.0.left" timestamp="1580718263095">
+    <state width="1638" height="199" key="GridCell.Tab.0.left" timestamp="1580959598573">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state width="3798" height="488" key="GridCell.Tab.0.left/0.0.1440.900/1440.-533.3840.2160@1440.-533.3840.2160" timestamp="1578386634419" />
-    <state width="1638" height="340" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1580718263095" />
+    <state width="1638" height="199" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1580959598573" />
     <state width="3798" height="807" key="GridCell.Tab.0.left/0.23.1440.877/1440.-510.3840.2137@1440.-510.3840.2137" timestamp="1578295408543" />
     <state width="3798" height="661" key="GridCell.Tab.0.left/0.23.1440.877/1440.-533.3840.2160@1440.-533.3840.2160" timestamp="1578370042647" />
-    <state width="1638" height="340" key="GridCell.Tab.0.right" timestamp="1580718263096">
+    <state width="1638" height="199" key="GridCell.Tab.0.right" timestamp="1580959598574">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state width="3798" height="488" key="GridCell.Tab.0.right/0.0.1440.900/1440.-533.3840.2160@1440.-533.3840.2160" timestamp="1578386634421" />
-    <state width="1638" height="340" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1580718263096" />
+    <state width="1638" height="199" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1580959598574" />
     <state width="3798" height="807" key="GridCell.Tab.0.right/0.23.1440.877/1440.-510.3840.2137@1440.-510.3840.2137" timestamp="1578295408547" />
     <state width="3798" height="661" key="GridCell.Tab.0.right/0.23.1440.877/1440.-533.3840.2160@1440.-533.3840.2160" timestamp="1578370042648" />
-    <state width="1638" height="340" key="GridCell.Tab.1.bottom" timestamp="1580718265585">
+    <state width="1638" height="340" key="GridCell.Tab.1.bottom" timestamp="1580799347179">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state width="3798" height="807" key="GridCell.Tab.1.bottom/0.0.1440.900/1440.-533.3840.2160@1440.-533.3840.2160" timestamp="1578368982156" />
-    <state width="1638" height="340" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1580718265585" />
+    <state width="1638" height="340" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1580799347179" />
     <state width="3798" height="807" key="GridCell.Tab.1.bottom/0.23.1440.877/1440.-510.3840.2137@1440.-510.3840.2137" timestamp="1578295408449" />
-    <state width="1638" height="340" key="GridCell.Tab.1.center" timestamp="1580718265583">
+    <state width="1638" height="340" key="GridCell.Tab.1.center" timestamp="1580799347177">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state width="3798" height="807" key="GridCell.Tab.1.center/0.0.1440.900/1440.-533.3840.2160@1440.-533.3840.2160" timestamp="1578368982155" />
-    <state width="1638" height="340" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1580718265583" />
+    <state width="1638" height="340" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1580799347177" />
     <state width="3798" height="807" key="GridCell.Tab.1.center/0.23.1440.877/1440.-510.3840.2137@1440.-510.3840.2137" timestamp="1578295408448" />
-    <state width="1638" height="340" key="GridCell.Tab.1.left" timestamp="1580718265583">
+    <state width="1638" height="340" key="GridCell.Tab.1.left" timestamp="1580799347176">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state width="3798" height="807" key="GridCell.Tab.1.left/0.0.1440.900/1440.-533.3840.2160@1440.-533.3840.2160" timestamp="1578368982154" />
-    <state width="1638" height="340" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1580718265583" />
+    <state width="1638" height="340" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1580799347176" />
     <state width="3798" height="807" key="GridCell.Tab.1.left/0.23.1440.877/1440.-510.3840.2137@1440.-510.3840.2137" timestamp="1578295408448" />
-    <state width="1638" height="340" key="GridCell.Tab.1.right" timestamp="1580718265584">
+    <state width="1638" height="340" key="GridCell.Tab.1.right" timestamp="1580799347178">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state width="3798" height="807" key="GridCell.Tab.1.right/0.0.1440.900/1440.-533.3840.2160@1440.-533.3840.2160" timestamp="1578368982155" />
-    <state width="1638" height="340" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1580718265584" />
+    <state width="1638" height="340" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1580799347178" />
     <state width="3798" height="807" key="GridCell.Tab.1.right/0.23.1440.877/1440.-510.3840.2137@1440.-510.3840.2137" timestamp="1578295408448" />
     <state x="625" y="328" key="SettingsEditor" timestamp="1580714450158">
       <screen x="0" y="0" width="1680" height="1050" />
@@ -199,14 +197,6 @@
           <url>file://$PROJECT_DIR$/src/Intermediate2020/Contest1.java</url>
           <line>30</line>
           <option name="timeStamp" value="9" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/Intermediate2020/Contest2.java</url>
-          <line>7</line>
-          <properties class="Intermediate2020.Contest2" method="check">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="21" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
