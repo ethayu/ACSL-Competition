@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6e999413-4db0-4390-af9b-dedd9dbaaa86" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Intermediate2020/Contest3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Intermediate2020/o/Contest2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Intermediate2020/o/Contest2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ACSL-Competition/Intermediate2020/Contest2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ACSL-Competition/Intermediate2020/Contest2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ACSL-Competition/Intermediate2020/Test Input Contest 2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ACSL-Competition/Intermediate2020/Test Input Contest 2.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Intermediate2020/Contest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Intermediate2020/Contest2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Intermediate2020/Test Input Contest 2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Intermediate2020/Test Input Contest 2.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +32,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -40,7 +40,7 @@
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="MTConfigurable" />
   </component>
-  <component name="RunManager" selected="Application.Contest2">
+  <component name="RunManager" selected="Application.Contest3">
     <configuration name="Contest1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Intermediate2020.Contest1" />
       <module name="ACSL-Competition" />
@@ -67,8 +67,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Contest3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Intermediate2020.Contest3" />
+      <module name="ACSL-Competition" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Intermediate2020.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Contest3" />
         <item itemvalue="Application.Contest2" />
         <item itemvalue="Application.Contest1" />
       </list>
@@ -98,12 +112,16 @@
       <updated>1578291226525</updated>
       <workItem from="1578291254147" duration="13333000" />
       <workItem from="1579313792643" duration="18000" />
-      <workItem from="1580690857702" duration="13820000" />
+      <workItem from="1580690857702" duration="14961000" />
+      <workItem from="1583858839164" duration="10939000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="440" y="190" key="#Inspections" timestamp="1580714399324">
@@ -119,66 +137,75 @@
       <screen x="1440" y="-533" width="3840" height="2160" />
     </state>
     <state x="3052" y="357" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900/1440.-533.3840.2160@1440.-533.3840.2160" timestamp="1578302213316" />
-    <state width="1638" height="199" key="GridCell.Tab.0.bottom" timestamp="1580959598575">
+    <state width="1638" height="203" key="GridCell.Tab.0.bottom" timestamp="1583908253091">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state width="3798" height="488" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.-533.3840.2160@1440.-533.3840.2160" timestamp="1578386634422" />
-    <state width="1638" height="199" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1580959598575" />
+    <state width="1638" height="203" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1583908253091" />
     <state width="3798" height="807" key="GridCell.Tab.0.bottom/0.23.1440.877/1440.-510.3840.2137@1440.-510.3840.2137" timestamp="1578295408548" />
     <state width="3798" height="661" key="GridCell.Tab.0.bottom/0.23.1440.877/1440.-533.3840.2160@1440.-533.3840.2160" timestamp="1578370042649" />
-    <state width="1638" height="199" key="GridCell.Tab.0.center" timestamp="1580959598574">
+    <state width="1638" height="348" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1583902288768" />
+    <state width="1638" height="203" key="GridCell.Tab.0.center" timestamp="1583908253089">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state width="3798" height="488" key="GridCell.Tab.0.center/0.0.1440.900/1440.-533.3840.2160@1440.-533.3840.2160" timestamp="1578386634420" />
-    <state width="1638" height="199" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1580959598574" />
+    <state width="1638" height="203" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1583908253089" />
     <state width="3798" height="807" key="GridCell.Tab.0.center/0.23.1440.877/1440.-510.3840.2137@1440.-510.3840.2137" timestamp="1578295408546" />
     <state width="3798" height="661" key="GridCell.Tab.0.center/0.23.1440.877/1440.-533.3840.2160@1440.-533.3840.2160" timestamp="1578370042648" />
-    <state width="1638" height="199" key="GridCell.Tab.0.left" timestamp="1580959598573">
+    <state width="1638" height="348" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1583902288766" />
+    <state width="1638" height="203" key="GridCell.Tab.0.left" timestamp="1583908253087">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state width="3798" height="488" key="GridCell.Tab.0.left/0.0.1440.900/1440.-533.3840.2160@1440.-533.3840.2160" timestamp="1578386634419" />
-    <state width="1638" height="199" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1580959598573" />
+    <state width="1638" height="203" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1583908253087" />
     <state width="3798" height="807" key="GridCell.Tab.0.left/0.23.1440.877/1440.-510.3840.2137@1440.-510.3840.2137" timestamp="1578295408543" />
     <state width="3798" height="661" key="GridCell.Tab.0.left/0.23.1440.877/1440.-533.3840.2160@1440.-533.3840.2160" timestamp="1578370042647" />
-    <state width="1638" height="199" key="GridCell.Tab.0.right" timestamp="1580959598574">
+    <state width="1638" height="348" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1583902288766" />
+    <state width="1638" height="203" key="GridCell.Tab.0.right" timestamp="1583908253090">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state width="3798" height="488" key="GridCell.Tab.0.right/0.0.1440.900/1440.-533.3840.2160@1440.-533.3840.2160" timestamp="1578386634421" />
-    <state width="1638" height="199" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1580959598574" />
+    <state width="1638" height="203" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1583908253090" />
     <state width="3798" height="807" key="GridCell.Tab.0.right/0.23.1440.877/1440.-510.3840.2137@1440.-510.3840.2137" timestamp="1578295408547" />
     <state width="3798" height="661" key="GridCell.Tab.0.right/0.23.1440.877/1440.-533.3840.2160@1440.-533.3840.2160" timestamp="1578370042648" />
-    <state width="1638" height="340" key="GridCell.Tab.1.bottom" timestamp="1580799347179">
-      <screen x="0" y="0" width="1680" height="1050" />
+    <state width="1638" height="348" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1583902288767" />
+    <state width="1638" height="348" key="GridCell.Tab.1.bottom" timestamp="1583902288770">
+      <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state width="3798" height="807" key="GridCell.Tab.1.bottom/0.0.1440.900/1440.-533.3840.2160@1440.-533.3840.2160" timestamp="1578368982156" />
-    <state width="1638" height="340" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1580799347179" />
+    <state width="1638" height="127" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1583901897747" />
     <state width="3798" height="807" key="GridCell.Tab.1.bottom/0.23.1440.877/1440.-510.3840.2137@1440.-510.3840.2137" timestamp="1578295408449" />
-    <state width="1638" height="340" key="GridCell.Tab.1.center" timestamp="1580799347177">
-      <screen x="0" y="0" width="1680" height="1050" />
+    <state width="1638" height="348" key="GridCell.Tab.1.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1583902288770" />
+    <state width="1638" height="348" key="GridCell.Tab.1.center" timestamp="1583902288769">
+      <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state width="3798" height="807" key="GridCell.Tab.1.center/0.0.1440.900/1440.-533.3840.2160@1440.-533.3840.2160" timestamp="1578368982155" />
-    <state width="1638" height="340" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1580799347177" />
+    <state width="1638" height="127" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1583901897743" />
     <state width="3798" height="807" key="GridCell.Tab.1.center/0.23.1440.877/1440.-510.3840.2137@1440.-510.3840.2137" timestamp="1578295408448" />
-    <state width="1638" height="340" key="GridCell.Tab.1.left" timestamp="1580799347176">
-      <screen x="0" y="0" width="1680" height="1050" />
+    <state width="1638" height="348" key="GridCell.Tab.1.center/0.23.1680.1027@0.23.1680.1027" timestamp="1583902288769" />
+    <state width="1638" height="348" key="GridCell.Tab.1.left" timestamp="1583902288768">
+      <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state width="3798" height="807" key="GridCell.Tab.1.left/0.0.1440.900/1440.-533.3840.2160@1440.-533.3840.2160" timestamp="1578368982154" />
-    <state width="1638" height="340" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1580799347176" />
+    <state width="1638" height="127" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1583901897741" />
     <state width="3798" height="807" key="GridCell.Tab.1.left/0.23.1440.877/1440.-510.3840.2137@1440.-510.3840.2137" timestamp="1578295408448" />
-    <state width="1638" height="340" key="GridCell.Tab.1.right" timestamp="1580799347178">
-      <screen x="0" y="0" width="1680" height="1050" />
+    <state width="1638" height="348" key="GridCell.Tab.1.left/0.23.1680.1027@0.23.1680.1027" timestamp="1583902288768" />
+    <state width="1638" height="348" key="GridCell.Tab.1.right" timestamp="1583902288769">
+      <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state width="3798" height="807" key="GridCell.Tab.1.right/0.0.1440.900/1440.-533.3840.2160@1440.-533.3840.2160" timestamp="1578368982155" />
-    <state width="1638" height="340" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1580799347178" />
+    <state width="1638" height="127" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1583901897746" />
     <state width="3798" height="807" key="GridCell.Tab.1.right/0.23.1440.877/1440.-510.3840.2137@1440.-510.3840.2137" timestamp="1578295408448" />
+    <state width="1638" height="348" key="GridCell.Tab.1.right/0.23.1680.1027@0.23.1680.1027" timestamp="1583902288769" />
     <state x="625" y="328" key="SettingsEditor" timestamp="1580714450158">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="2869" y="186" key="SettingsEditor/0.0.1440.900/1440.-533.3840.2160@1440.-533.3840.2160" timestamp="1578291527876" />
     <state x="625" y="328" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1580714450158" />
-    <state x="519" y="369" key="com.intellij.ide.util.TipDialog" timestamp="1579313792017">
-      <screen x="0" y="23" width="1680" height="1027" />
+    <state x="519" y="354" key="com.intellij.ide.util.TipDialog" timestamp="1583858844237">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
+    <state x="519" y="354" key="com.intellij.ide.util.TipDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1583858844237" />
     <state x="519" y="369" key="com.intellij.ide.util.TipDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1579313792017" />
     <state x="3025" y="259" key="run.anything.popup" timestamp="1578292256328">
       <screen x="1440" y="-533" width="3840" height="2160" />
@@ -197,6 +224,11 @@
           <url>file://$PROJECT_DIR$/src/Intermediate2020/Contest1.java</url>
           <line>30</line>
           <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Intermediate2020/Contest3.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="42" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
